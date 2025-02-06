@@ -12,4 +12,5 @@ confluent-kafka Python library: Install the library using pip:
         pip install confluent-kafka
         
 producer.py: A Python script that acts as a Kafka producer, sending messages to a Kafka topic.
+
 consumer.py: A Python script that acts as a Kafka consumer, reading messages from the Kafka topic.
